@@ -189,4 +189,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Mobile app for price predictions
 - [ ] Integration with more data sources (Redfin, Realtor.com)
 - [ ] Automated model retraining pipeline
-# Housing-Price-Predictor
