@@ -1,8 +1,8 @@
-# 📚 Usage Examples
+# Usage Examples
 
 This document provides detailed examples of how to use the Housing Price Predictor in different scenarios.
 
-## 🚀 Quick Start Examples
+## Quick Start Examples
 
 ### 1. Basic Linear Regression
 ```bash
@@ -110,7 +110,7 @@ predictor.train_models()
 results = predictor.evaluate_models()
 ```
 
-## 📊 Visualization Examples
+## Visualization Examples
 
 ### Creating Custom Plots
 
@@ -152,7 +152,7 @@ plt.title('Feature Importance Analysis')
 plt.show()
 ```
 
-## 🎯 Specific Use Cases
+## Specific Use Cases
 
 ### 1. Real Estate Investment Analysis
 ```python
@@ -215,7 +215,7 @@ def compare_metros(metro_list, feature='price_growth'):
     return sorted_metros
 ```
 
-## 🔍 Troubleshooting Examples
+## Troubleshooting Examples
 
 ### Common Issues and Solutions
 
