@@ -185,3 +185,8 @@ config.py
 
 # Jupyter notebook outputs
 *.ipynb
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+venv/
