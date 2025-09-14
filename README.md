@@ -1,8 +1,8 @@
-# Housing Price Predictor 🏠
+# Housing Price Predictor
 
 A modern, comprehensive housing price prediction system using state-of-the-art machine learning techniques and real-world datasets.
 
-## 🚀 Features
+## Features
 
 - **Multiple ML Models**: Linear Regression, Random Forest, XGBoost, Neural Networks
 - **Real Data Sources**: Zillow, California Housing, Synthetic datasets
@@ -10,7 +10,7 @@ A modern, comprehensive housing price prediction system using state-of-the-art m
 - **Interactive UI**: Streamlit web interface and CLI tools
 - **Modern Architecture**: Type hints, logging, configuration management, comprehensive testing
 
-## 📊 Supported Datasets
+## Supported Datasets
 
 - **Zillow Data**: 895+ metropolitan areas with 25+ years of historical data
 - **California Housing**: Scikit-learn's built-in dataset
@@ -35,7 +35,7 @@ pip install -e .
 pip install -e ".[dev]"
 ```
 
-## 🎯 Quick Start
+## Quick Start
 
 ### 1. Basic Usage
 ```python
@@ -188,7 +188,7 @@ predictor.add_model("Custom GB", custom_model)
 predictor.train_models()
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -204,13 +204,13 @@ pre-commit install
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Zillow for providing comprehensive housing data
 - Scikit-learn team for excellent ML tools
 - The open-source community for inspiration and support
 
-## 📞 Support
+## Support
 
 - 📧 Email: your.email@example.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/housing-price-predictor/issues)
